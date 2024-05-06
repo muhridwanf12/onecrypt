@@ -37,7 +37,6 @@ class _MyHomePageState extends State<MyHomePage> {
   late TextEditingController ivController;
   String process = '';
   late encrypt.IV iv;
-  String note = '';
   
   @override
   void initState(){
